@@ -1,0 +1,5 @@
+﻿  Q8_StringToInteger(atoi).cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi).cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi).cpp(48,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi)\Q8_StringToInteger(atoi).cpp(52,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Q8_StringToInteger(atoi).vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Medium\Q8_StringToInteger(atoi)\Debug\Q8_StringToInteger(atoi).exe
